@@ -49,8 +49,10 @@
       - Raindrops
   9. Do the exercises in study item 4 which are marked with the keywords "TRY THIS", "QUICK CHECK" and "LAB". Note that you need to use your GitHub as source control
   10. Find at least 5 other useful online resources for python and explain why you chose them.
-  11. Exactly **7 days** before your deadline, ask your coordinator to schedule a live presentation session for you on your deadline day.
-  12. Hold your step presentation on LinkedIn. Guidelines on how to present are provided on [this page](https://github.com/cs-internship/cs-internship-spec/blob/master/courses/presentation-guidelines.md).
+  11. At least 7 days before your deadline, start coordinating and scheduling your live presentation session as the final task of this step.  
+for more details about the live presentation, please check ["Guidelines for Delivering an Online Presentation"](https://github.com/cs-internship/cs-internship-spec/blob/master/processes/Intern%20documents/Guidelines%20for%20Delivering%20an%20Online%20Presentation%20--%20fa.md).
+  12. Hold your live presentation on LinkedIn.
+
 
 
 ### Mentors Training
