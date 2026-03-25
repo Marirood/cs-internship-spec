@@ -1,21 +1,5 @@
 ## Step 3. Intermediate JS (I)
 
-### Guideline
-
-- Ask your coordinator for a detailed description of the step content before setting a deadline.
-
-- For each study item and each task, you should post an update to LinkedIn, Twitter, and Telegram using the following hashtags:
-`#cs_internship`
-`#[courseName]`
-`#[stepNumber]`
-
-- At the end of each week, you are supposed to give your coordinator a report including the following items:
-  1. Links to all your posts during the last week specifying the relevant task or study item for each link, and also mention the exact date that each one of them were posted.
-  2. How many hours did you spend on cs_internship last week?
-  3. What percentage are you satisfied with what you did last week?
-
-  You will have a session with a technical mentor based on your report.
-
 ### Study Items <!-- omit in toc -->
 
 1. [YDKJS Book 2, Chapter 1: What is Scope?](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20%26%20closures/ch1.md)
